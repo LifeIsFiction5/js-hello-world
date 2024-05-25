@@ -4,7 +4,8 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("I don't know what I'm doing, but I'll do the best I can to figure it out");
+console.log('Maybe by experimenting, I can begin to piece together what this language is');
 
 /*  
 Next, PLAY! 
